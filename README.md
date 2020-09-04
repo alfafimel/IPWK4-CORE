@@ -1,5 +1,7 @@
 # IPWK4-CORE
 link to files (https://drive.google.com/drive/folders/1ALZAAuALYBwdJjc0bV8g4TMT_RJRBYk6?usp=sharing)
+
+## link to hypothesis testing report (https://docs.google.com/document/d/1EJvRPlTVDdfjZbz2nUtrXKv0HQpjj8PEROaofGiS48M/edit?usp=sharing)
 ## PYTHON
 We will work as a Data Scientist for the Autolib electric car-sharing service company to investigate a claim about the blue cars from the provided Autolib dataset.
 
