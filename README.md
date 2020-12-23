@@ -51,7 +51,7 @@ If you conducted the goodness of fit test, comment on the effect of different bi
 Summarize the process of the project
 Provide the concluding statement concerning the hypothesis, the results, and the sensitivity of the testing.
 Dataset
-The dataset and glossary to use for this project can be found here [http://bit.ly/DSCoreAutolibDataset (Links to an external site.)] and here [Link] respectively.
+The dataset and glossary to use for this project can be found here [http://bit.ly/DSCoreAutolibDataset (Links to an external site.)] and here [http://bit.ly/DSCoreAutolibDatasetGlossary] respectively.
 
 The provided dataset is a daily aggregation, by date and postal code, of the number of events on the Autolib network (car-sharing and recharging).
  
